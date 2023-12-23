@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects related to business analytics, data-driven decision-making, and optimization strategies.
 
-📫 You can reach me at emranrazi@gmail.com or connect with me on [LinkedIn](<[Your LinkedIn Profile URL](https://www.linkedin.com/notifications/?filter=all)>).
+📫 You can reach me at emranrazi@gmail.com or connect with me on [LinkedIn](<https://www.linkedin.com/notifications/?filter=all>).
 
 <!---
 emranrazi/emranrazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
